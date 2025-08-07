@@ -1,6 +1,7 @@
 # Project-aK1ba_CIac-赛博便民计算服务中心 多功能 计算器
 一个基于Python的多功能计算程序
 A Python-based Math and other calculation tool
+Base64编解码 对数计算部分开发/调整 Generate by Deepseek R1
 
 功能说明
 
@@ -8,7 +9,6 @@ A Python-based Math and other calculation tool
 解二次/线性方程
 计算平方根（支持复数）
 阶乘、指数、对数计算
-函数求解与绘图
 
 Base64工具：
 文本/文件编码
